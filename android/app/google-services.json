@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931846761617",
+    "project_id": "j3d-sq",
+    "storage_bucket": "j3d-sq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931846761617:android:6685bf52cf524ad17da330",
+        "android_client_info": {
+          "package_name": "com.j3d.j3d_sq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRV-qR8Bctb2Py7JRB0S_aYNVDZ6UrMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
